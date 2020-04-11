@@ -1,0 +1,29 @@
+{
+  "name": "mylinebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.4",
+    "express": "^4.17.1",
+    "ngrok": "^3.2.7"
+  },
+  "devDependencies": {},
+  "description": ""
+  
+  ・
+  ・
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  ・
+  ・
+  
+}
